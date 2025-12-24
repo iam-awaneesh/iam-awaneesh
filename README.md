@@ -1,16 +1,26 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Awaneesh Singh</h1>
+<h3 align="center">
+Full Stack Developer | React & Next.js | Backend with Express & NestJS
+</h3>
 
-<!--
-**iam-awaneesh/iam-awaneesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Building clean, scalable & real-world applications 🚀
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=awaneeshsingh&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+```ts
+const developer = {
+  name: "Awaneesh Singh",
+  role: "Full Stack Developer",
+  mindset: "Industry-grade & scalable products",
+  learning: ["React Native", "System Design"],
+  currentFocus: "MyMechanika (Workshop & Service Platform)",
+};
+
