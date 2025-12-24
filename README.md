@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Awaneesh Singh</h1>
 <h3 align="center">
-Full Stack Developer | React & Next.js | Backend with Express & NestJS
+Full Stack Developer | Web Systems | Learning Mobile Development
 </h3>
 
 <p align="center">
-Building clean, scalable & real-world applications 🚀
+I build real-world, scalable applications with clean UI and strong backend 🚀
 </p>
 
 <p align="center">
@@ -14,13 +14,41 @@ Building clean, scalable & real-world applications 🚀
 ---
 
 ## 👨‍💻 About Me
+## 🛠 Languages & Tools
+
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-black?logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-black?logo=express)
+![Axios](https://img.shields.io/badge/Axios-purple?logo=axios)
+
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-green?logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql&logoColor=white)
+
+### Mobile
+![React Native](https://img.shields.io/badge/React_Native-black?logo=react)
+
+### Tools & DevOps
+![Git](https://img.shields.io/badge/Git-orange?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
+![Docker](https://img.shields.io/badge/Docker-blue?logo=docker&logoColor=white)
+
 
 ```ts
-const developer = {
-  name: "Awaneesh Singh",
+const awaneesh = {
   role: "Full Stack Developer",
-  mindset: "Industry-grade & scalable products",
-  learning: ["React Native", "System Design"],
-  currentFocus: "MyMechanika (Workshop & Service Platform)",
+  coreFocus: "Industry-grade product development",
+  projects: ["CliqHire", "MyMechanika"],
+  currentlyBuilding: "Car Service & Workshop Management System",
+  learning: ["React Native", "Advanced Backend & System Design"],
 };
 
