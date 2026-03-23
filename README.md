@@ -24,12 +24,6 @@ I build real-world, scalable applications with clean UI and strong backend 🚀
 | **Mobile** | ![React_Native](https://img.shields.io/badge/React_Native-black?logo=react) |
 | **Tools & DevOps** | ![Git](https://img.shields.io/badge/Git-orange?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-black?logo=github) ![Docker](https://img.shields.io/badge/Docker-blue?logo=docker&logoColor=white) |
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iam-awaneesh&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iam-awaneesh&theme=tokyonight" />
-</p>
 
 ```ts
 const Awaneesh = {
