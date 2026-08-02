@@ -1,144 +1,98 @@
 <div align="center">
 
-  <!-- Header Banner -->
-  <a href="https://virgodev.in">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:2196F3&height=180&section=header&text=Awaneesh%20Singh&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header Banner" />
-  </a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,50:2196F3,100:38B2AC&height=220&section=header&text=Hey,%20I'm%20Awaneesh%20Singh&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Software%20Architect&descAlignY=58&descSize=18" width="100%" alt="Header Banner" />
 
-  <!-- Subtitle Badges -->
-  <p align="center">
-    <img src="https://img.shields.io/badge/Full%20Stack%20Developer-0077B5?style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/Software%20Architect-005999?style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/Mobile%20Explorer-38B2AC?style=for-the-badge&logoColor=white" />
-  </p>
+<br/>
 
-  <!-- Connect Links -->
-  <p align="center">
-    <a href="https://virgodev.in" target="_blank">
-      <img src="https://img.shields.io/badge/🌐_Portfolio-virgodev.in-111827?style=flat-square" alt="Portfolio" />
-    </a>
-    &nbsp;
-    <a href="https://www.linkedin.com/in/awaneesh-singh-48948b35b" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    &nbsp;
-    <a href="mailto:your.email@example.com">
-      <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-  </p>
+<a href="https://virgodev.in">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+MyMechanika+%E2%80%94+Workshop+SaaS;NestJS+%2B+Next.js+%2B+PostgreSQL;Clean+Code+%7C+SOLID+%7C+Scalable+Systems;Open+for+Architectural+Collaboration&font=Fira+Code&center=true&width=560&height=45&color=2196F3&vCenter=true&size=22&pause=1200" alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+<a href="https://virgodev.in" target="_blank"><img src="https://img.shields.io/badge/🌐_Portfolio-virgodev.in-111827?style=for-the-badge" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/awaneesh-singh-48948b35b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
 
----
+<br/>
 
-### 👤 About Me
+## 👤 About Me
 
+- 🔭 **Currently Building:** [**MyMechanika**](https://virgodev.in) — a full-scale, multi-tenant Workshop Management SaaS
+- ⚙️ **Core Expertise:** High-availability backend systems, clean architecture, and responsive UX design
+- 📱 **Mobile Engineering:** Extending enterprise web workflows into native apps with **React Native**
+- 💡 **Philosophy:** Clean Code · SOLID Principles · Scalable System Design
+- 🌱 **Right Now:** Sharpening JS/React fundamentals for upcoming technical interviews
+- 📫 **Reach Me:** via [LinkedIn](https://www.linkedin.com/in/awaneesh-singh-48948b35b) or email above
+
+<br/>
+
+<div align="center">
+
+| 🎯 Role | 🧰 Core Stack | 📍 Location | 🟢 Status |
+|:---:|:---:|:---:|:---:|
+| Full Stack Engineer | NestJS · Next.js · PostgreSQL | India | Open for Collaboration |
+
+</div>
+
+<br/>
+
+## 🛠️ Technical Arsenal
+
+<div align="center">
+
+| Category | Stack |
+|:---|:---|
+| **Frontend & UI** | <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,html,css" /> |
+| **Backend & APIs** | <img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,graphql" /> |
+| **Databases** | <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" /> |
+| **Mobile & DevOps** | <img src="https://skillicons.dev/icons?i=react,docker,git,github,vercel,linux" /> |
+
+</div>
+
+<br/>
+
+## 🚀 Featured Project
+
+<div align="center">
 <table width="100%">
   <tr>
-    <td width="60%" valign="top">
-      <h4>⚡ Professional Profile</h4>
-      <ul>
-        <li>🔭 <b>Current Focus:</b> Architecting <b>MyMechanika</b> — A full-scale Workshop Management Ecosystem.</li>
-        <li>⚙️ <b>Core Expertise:</b> High-availability backend systems, clean architecture, and responsive UX design.</li>
-        <li>📱 <b>Mobile Engineering:</b> Extending enterprise web workflows into native mobile apps with <b>React Native</b>.</li>
-        <li>💡 <b>Engineering Philosophy:</b> Clean Code, SOLID Principles, and Scalable System Design.</li>
-      </ul>
-    </td>
-    <td width="40%" valign="top">
-      <h4>🎯 Quick Overview</h4>
-      <p><b>Role:</b> Full Stack Engineer</p>
-      <p><b>Core Stack:</b> NestJS, Next.js, PostgreSQL</p>
-      <p><b>Location:</b> India</p>
-      <p><b>Status:</b> Open for Architectural Collaboration</p>
-    </td>
-  </tr>
-</table>
-
----
-
-### 🛠️ Technical Arsenal
-
-<table width="100%">
-  <thead>
-    <tr>
-      <th width="25%">Category</th>
-      <th width="75%">Technologies & Tools</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><b>Frontend & UI</b></td>
-      <td>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-      </td>
-    </tr>
-    <tr>
-      <td><b>Backend & APIs</b></td>
-      <td>
-        <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-        <img src="https://img.shields.io/badge/REST_APIs-00758F?style=for-the-badge&logo=fastapi&logoColor=white" />
-      </td>
-    </tr>
-    <tr>
-      <td><b>Databases</b></td>
-      <td>
-        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-        <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-      </td>
-    </tr>
-    <tr>
-      <td><b>Mobile & DevOps</b></td>
-      <td>
-        <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-        <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-      </td>
-    </tr>
-  </tbody>
-</table>
-
----
-
-### 🚀 Featured Project
-
-<table width="100%">
-  <tr>
-    <td style="padding: 15px;">
-      <h3>⚙️ MyMechanika — Workshop Management Ecosystem</h3>
-      <p>
-        An end-to-end multi-tenant SaaS platform engineered for automotive workshops to manage service pipelines, inventory logistics, billing lifecycle, and real-time client communication.
+    <td width="100%">
+      <h3 align="center">⚙️ MyMechanika</h3>
+      <p align="center"><i>Workshop Management Ecosystem</i></p>
+      <p align="center">
+        An end-to-end multi-tenant SaaS platform engineered for automotive workshops to manage
+        service pipelines, inventory logistics, billing lifecycle, and real-time client communication.
       </p>
-      <hr />
-      <p>
-        <b>Tech Architecture:</b> 
-        <code>NestJS</code> • 
-        <code>Next.js</code> • 
-        <code>PostgreSQL</code> • 
-        <code>MongoDB</code> • 
-        <code>Tailwind CSS</code>
+      <p align="center">
+        <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+      </p>
+      <p align="center">
+        <a href="https://virgodev.in" target="_blank">
+          <img src="https://img.shields.io/badge/🔗_View_Live-2196F3?style=for-the-badge" alt="Live" />
+        </a>
       </p>
     </td>
   </tr>
 </table>
+</div>
 
----
+<br/>
 
-### 💡 Daily Thought for Developers
+## 💡 Daily Thought for Developers
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dynamic Daily Quote" />
 </div>
 
-<br />
+<br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2196F3,100:0e75b6&height=100&section=footer" width="100%" alt="Footer Wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38B2AC,50:2196F3,100:0e75b6&height=120&section=footer" width="100%" alt="Footer Wave" />
 </div>
