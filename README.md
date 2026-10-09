@@ -9,7 +9,7 @@
   <a href="https://virgodev.in/">
     <img src="https://img.shields.io/badge/Visit%20Website-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=174EA6" alt="Visit Website" />
   </a>
-  <a href="https://www.linkedin.com/in/awaneesh-singh-48948b35b">
+  <a href="https://www.linkedin.com/in/iam-awaneesh">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:awaneesh.singh.dev@gmail.com">
